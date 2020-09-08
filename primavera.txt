@@ -2,3 +2,4 @@ soleado y alergias
 tiempo de otoño
 vacaciones de fin de año
 vacaciones de diciembre
+Corregido error de vacaciones diciembre
